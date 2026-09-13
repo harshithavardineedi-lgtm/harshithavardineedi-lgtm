@@ -1,0 +1,240 @@
+<svg width="850" height="330" viewBox="0 0 850 330"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="border"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="100%">
+
+      <stop offset="0%" stop-color="#00BFFF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+
+    </linearGradient>
+
+    <filter id="glow">
+
+      <feGaussianBlur
+        stdDeviation="4"
+        result="blur"/>
+
+      <feMerge>
+
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+
+      </feMerge>
+
+    </filter>
+
+  </defs>
+
+
+  <!-- Main terminal window -->
+
+  <rect
+    x="5"
+    y="5"
+    width="840"
+    height="320"
+    rx="18"
+    fill="#0B1120"
+    stroke="url(#border)"
+    stroke-width="2"/>
+
+
+  <!-- Terminal buttons -->
+
+  <circle
+    cx="30"
+    cy="30"
+    r="6"
+    fill="#FF5F56"/>
+
+  <circle
+    cx="50"
+    cy="30"
+    r="6"
+    fill="#FFBD2E"/>
+
+  <circle
+    cx="70"
+    cy="30"
+    r="6"
+    fill="#27C93F"/>
+
+
+  <!-- Terminal command -->
+
+  <text
+    x="100"
+    y="36"
+    fill="#94A3B8"
+    font-family="monospace"
+    font-size="15">
+
+    harshi@github ~ $ whoami
+
+  </text>
+
+
+  <!-- Name -->
+
+  <text
+    x="35"
+    y="85"
+    fill="#00BFFF"
+    font-family="monospace"
+    font-size="27"
+    font-weight="bold"
+    filter="url(#glow)">
+
+    HARSHITHA VARDINEENI
+
+  </text>
+
+
+  <!-- Role -->
+
+  <text
+    x="35"
+    y="120"
+    fill="#E2E8F0"
+    font-family="monospace"
+    font-size="18">
+
+    &gt; Aspiring Data Analyst
+
+  </text>
+
+
+  <!-- Education / Focus -->
+
+  <text
+    x="35"
+    y="148"
+    fill="#CBD5E1"
+    font-family="monospace"
+    font-size="16">
+
+    &gt; AI &amp; Data Science Student
+
+  </text>
+
+
+  <!-- Stack heading -->
+
+  <text
+    x="35"
+    y="190"
+    fill="#00BFFF"
+    font-family="monospace"
+    font-size="16"
+    font-weight="bold">
+
+    STACK
+
+  </text>
+
+
+  <!-- Stack -->
+
+  <text
+    x="150"
+    y="190"
+    fill="#E2E8F0"
+    font-family="monospace"
+    font-size="16">
+
+    Python • SQL • Excel • Power BI
+
+  </text>
+
+
+  <text
+    x="150"
+    y="216"
+    fill="#E2E8F0"
+    font-family="monospace"
+    font-size="16">
+
+    Pandas • NumPy • Matplotlib • Seaborn
+
+  </text>
+
+
+  <!-- Focus -->
+
+  <text
+    x="35"
+    y="258"
+    fill="#00BFFF"
+    font-family="monospace"
+    font-size="16"
+    font-weight="bold">
+
+    FOCUS
+
+  </text>
+
+
+  <text
+    x="150"
+    y="258"
+    fill="#E2E8F0"
+    font-family="monospace"
+    font-size="16">
+
+    Data Analytics • Machine Learning
+
+  </text>
+
+
+  <!-- Status -->
+
+  <text
+    x="35"
+    y="292"
+    fill="#00BFFF"
+    font-family="monospace"
+    font-size="16"
+    font-weight="bold">
+
+    STATUS
+
+  </text>
+
+
+  <text
+    x="150"
+    y="292"
+    fill="#39D353"
+    font-family="monospace"
+    font-size="16">
+
+    ● Learning • Building • Growing
+
+  </text>
+
+
+  <!-- Blinking cursor -->
+
+  <rect
+    x="700"
+    y="278"
+    width="10"
+    height="18"
+    fill="#00BFFF">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+</svg>
