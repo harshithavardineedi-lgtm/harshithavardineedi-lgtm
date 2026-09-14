@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**harshithavardineedi-lgtm/harshithavardineedi-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Harshitha
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | AI & Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+<img src="./contrib-heatmap.svg" alt="GitHub Contribution Graph" width="100%">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="./ascii-portrait.svg" alt="ASCII Portrait" width="100%">
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="./info-card.svg" alt="Profile Info" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Python • SQL • Excel • Power BI • Data Analytics**
+
+</div>
