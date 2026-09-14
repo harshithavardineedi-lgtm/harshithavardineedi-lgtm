@@ -1,165 +1,119 @@
 <div align="center">
 
-# 👋 Hi, I'm Harshitha
+# Hi, I'm Harshitha 👋
 
-### Aspiring Data Analyst | AI & Data Science Student
+### AI & Data Science Student • Aspiring Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing" alt="Typing animation">
+<p>
+  <a href="https://github.com/harshithavardineedi-lgtm">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vardineedi-harshitha-985a223a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-00BFFF?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-00BFFF?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-00BFFF?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-00BFFF?style=flat-square&logo=powerbi&logoColor=white">
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm an AI & Data Science student passionate about **data analysis, visualization, and problem solving**.
+I'm an AI & Data Science student building practical projects in **data analysis, visualization, and machine learning**.
 
-I enjoy working with data to discover patterns, create meaningful visualizations, and build practical projects using Python, SQL, Excel, and Power BI.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github" height="50" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
-
-</p>
+I enjoy turning raw data into meaningful insights and continuously improving my skills with Python, SQL, Excel, and Power BI.
 
 ---
 
-## 📊 GitHub Activity
+## Tech Stack
+
+| Data | Programming | Visualization | Tools |
+|---|---|---|---|
+| SQL | Python | Power BI | Git |
+| Excel | Pandas | Matplotlib | GitHub |
+| NumPy | Scikit-learn | Seaborn | Jupyter |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap" width="95%">
+<img src="./contrib-heatmap.svg" alt="GitHub Contribution Activity" width="95%">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## Featured Projects
 
 ### 🩺 AI-Based Disease Prediction
+Machine learning project that predicts possible diseases from selected symptoms.
 
-Machine learning project that predicts possible diseases based on selected symptoms.
-
-**Tech:** Python • Pandas • Scikit-learn
-
-</td>
-
-<td width="50%">
+**Python · Pandas · Scikit-learn**
 
 ### 🤖 Student Chatbot
+Student-support chatbot for common queries about courses, fees, attendance, exams, and library information.
 
-Rule-based chatbot designed to answer common student queries about courses, fees, attendance, exams, and library information.
-
-**Tech:** Python • NLTK • Flask
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+**Python · NLTK · Flask**
 
 ### 📊 Sales Analysis
+Exploratory data analysis project focused on sales patterns, missing values, outliers, and visual insights.
 
-Data analysis project exploring sales patterns, missing values, outliers, and business insights through visualizations.
-
-**Tech:** Python • Pandas • Matplotlib • Seaborn
-
-</td>
-
-<td width="50%">
+**Python · Pandas · Matplotlib · Seaborn**
 
 ### 🎓 Student Attendance Management
+CSV-based attendance analysis project for understanding student attendance patterns.
 
-Attendance data analysis using CSV data to understand student attendance patterns.
-
-**Tech:** Python • Pandas
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+**Python · Pandas**
 
 ### 👨‍🎓 Student Record Management
+Simple project for storing and retrieving student information.
 
-Simple application for storing and retrieving student information.
-
-**Tech:** Python
-
-</td>
-
-<td width="50%">
-
-### 💡 More Projects
-
-Explore my repositories for more data analytics, Python, SQL, and AI projects.
-
-<a href="https://github.com/harshithavardineedi-lgtm?tab=repositories">
-View All Repositories →
-</a>
-
-</td>
-</tr>
-</table>
+**Python**
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech — Artificial Intelligence & Data Science**
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 ```text
-Python       ████████████████████
-SQL          ██████████████████
-Excel        █████████████████
-Power BI     ████████████████
-Data Analyst ███████████████
+Python        ████████████████████
+SQL           ██████████████████
+Power BI      █████████████████
+Excel         ████████████████
+Data Analysis █████████████████
 ````
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/harshithavardineedi-lgtm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/vardineedi-harshitha-985a223a9/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
+## Connect
 
 <div align="center">
 
-### ✨ Data • Insights • Technology
+<a href="https://github.com/harshithavardineedi-lgtm">
+GitHub
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vardineedi-harshitha-985a223a9/">
+LinkedIn
+</a>
+
+<br><br>
+
+**Data • Insights • AI**
 
 </div>
 
