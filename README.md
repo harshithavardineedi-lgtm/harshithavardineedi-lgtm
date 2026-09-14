@@ -125,4 +125,41 @@ View All Repositories →
 
 ## 🎓 Education
 
-**B.Tech — Artificial I**
+**B.Tech — Artificial Intelligence & Data Science**
+
+---
+
+## 📈 Currently Learning
+
+```text
+Python       ████████████████████
+SQL          ██████████████████
+Excel        █████████████████
+Power BI     ████████████████
+Data Analyst ███████████████
+````
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/harshithavardineedi-lgtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/vardineedi-harshitha-985a223a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Data • Insights • Technology
+
+</div>
+
