@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Harshitha
@@ -127,4 +126,3 @@ View All Repositories →
 ## 🎓 Education
 
 **B.Tech — Artificial I**
-```
