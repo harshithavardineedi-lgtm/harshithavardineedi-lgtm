@@ -24,26 +24,30 @@
 
 ## 🌐 About Me
 
+<div align="center">
 
-class Harshitha:
+### 👋 Hi, I'm Harshitha!
 
-    role = "Aspiring Data Analyst"
-    education = "AI & Data Science"
-    
-    interests = [
-        "Data Analytics",
-        "Artificial Intelligence",
-        "Data Visualization",
-        "Machine Learning"
-    ]
+I'm an **AI & Data Science student** passionate about turning raw data into meaningful insights. 📊
 
-    currently_learning = [
-        "Advanced SQL",
-        "Power BI",
-        "Python for Data Analysis"
-    ]
+I enjoy working with **Python, SQL, Excel, Power BI, and Machine Learning** to explore data, build projects, and solve real-world problems.
 
-    goal = "Turn raw data into meaningful insights 📊"
+<br>
+
+✨ **What I'm interested in**
+
+`📊 Data Analytics`   `🐍 Python`   `🗄️ SQL`   `📈 Power BI`   `🤖 AI & ML`
+
+<br>
+
+🚀 **Currently learning:** Advanced SQL • Power BI • Python for Data Analysis
+
+<br>
+
+🎯 **Goal:** Build practical data projects and grow as a Data Analyst.
+
+</div>
+
 
 ---
 
