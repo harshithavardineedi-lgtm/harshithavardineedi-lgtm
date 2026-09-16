@@ -193,7 +193,13 @@ Simple student information management project.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshithavardineedi-lgtm&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+✨ **Achievements coming soon...** ✨
+
+<p>
+Currently building my GitHub journey through
+<br/>
+<b>Projects • Contributions • LeetCode • Open Source</b>
+</p>
 
 </div>
 
