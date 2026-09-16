@@ -209,9 +209,14 @@ Currently building my GitHub journey through
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithavardineedi-lgtm&bg_color=00000000&color=7C3AED&line=00BFFF&point=FF4ECD&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+✨ **Building consistently, one contribution at a time.** ✨
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/harshithavardineedi-lgtm/harshithavardineedi-lgtm/main/profile/github-metrics.svg" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
+
 
 ---
 
