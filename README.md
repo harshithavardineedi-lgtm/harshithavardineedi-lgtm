@@ -164,4 +164,140 @@ class Harshitha:
 
 ---
 
-## 📈 Contribution Grap
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithavardineedi-lgtm&bg_color=0D1117&color=00D9FF&line=7C3AED&point=00FFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 💻 Coding Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<img src="https://img.shields.io/badge/Python-Problem%20Solving-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/SQL-Data%20Queries-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║              CODING PROGRESS                 ║
+╠══════════════════════════════════════════════╣
+║  🐍 Python       →  Data Analysis            ║
+║  🗄️ SQL          →  Query & Database Skills ║
+║  💡 LeetCode     →  Problem Solving          ║
+║  📊 Power BI     →  Data Visualization       ║
+║  🤖 AI/ML        →  Intelligent Systems      ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<div align="center">
+
+|      🔥 Area     | 🎯 Focus                       |
+| :--------------: | :----------------------------- |
+|   🐍 **Python**  | Data Analysis & Automation     |
+|    🗄️ **SQL**   | Queries, Joins & Data Handling |
+|  📊 **Power BI** | Interactive Dashboards         |
+|  🤖 **AI / ML**  | Practical Machine Learning     |
+|  💻 **LeetCode** | Problem Solving                |
+| 📈 **Analytics** | Turning Data Into Insights     |
+
+</div>
+
+---
+
+## 🌱 Learning → Building → Improving
+
+<div align="center">
+
+```text
+       ┌───────────────┐
+       │    LEARN 📚   │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │   BUILD 💻    │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │  ANALYZE 📊   │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │  IMPROVE ⚡   │
+       └───────┬───────┘
+               ↓
+          🔁 REPEAT
+```
+
+</div>
+
+---
+
+## 🌌 Developer Mindset
+
+<div align="center">
+
+### `DATA → KNOWLEDGE → INSIGHTS → IMPACT`
+
+<br>
+
+> ✨ Building skills one project at a time.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%92%BB;Keep+Analyzing+%F0%9F%93%8A;Keep+Growing+%F0%9F%9A%80" alt="Developer Mindset"/>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/harshithavardineedi-lgtm">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vardineedi-harshitha-985a223a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harshithavardineedi-lgtm&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+
+<br><br>
+
+### ⚡ `TURNING DATA INTO INSIGHTS` ⚡
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:00FFFF&height=120&section=footer" width="100%"/>
+
+</div>
+
