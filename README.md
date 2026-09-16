@@ -203,22 +203,6 @@ Currently building my GitHub journey through
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-✨ **Building consistently, one contribution at a time.** ✨
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/harshithavardineedi-lgtm/harshithavardineedi-lgtm/main/profile/github-metrics.svg" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
-
----
 
 ## 💻 Coding Journey
 
