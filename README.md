@@ -24,7 +24,7 @@
 
 ## 🌐 About Me
 
-```python
+
 class Harshitha:
 
     role = "Aspiring Data Analyst"
@@ -44,7 +44,6 @@ class Harshitha:
     ]
 
     goal = "Turn raw data into meaningful insights 📊"
-```
 
 ---
 
