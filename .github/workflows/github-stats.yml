@@ -1,3 +1,4 @@
+```yaml
 name: Generate GitHub Analytics
 
 on:
@@ -39,4 +40,4 @@ jobs:
           git add profile/
           git commit -m "Update GitHub analytics" || exit 0
           git push
-
+```
