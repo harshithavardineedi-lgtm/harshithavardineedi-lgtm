@@ -158,7 +158,11 @@ Simple student information management project.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshithavardineedi-lgtm&show_icons=true..." />
+<img
+  src="https://raw.githubusercontent.com/harshithavardineedi-lgtm/harshithavardineedi-lgtm/main/profile/github-metrics.svg"
+  width="100%"
+  alt="GitHub Analytics"
+/>
 
 </div>
 
