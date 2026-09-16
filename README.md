@@ -158,11 +158,25 @@ Simple student information management project.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshithavardineedi-lgtm&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=00BFFF&text_color=555555&ring_color=FF4ECD" height="180"/>
+<h2>📊 GitHub Analytics</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithavardineedi-lgtm&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=555555" height="180"/>
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=harshithavardineedi-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=7C3AED&text_color=FFFFFF"
+  height="180"
+  alt="Harshitha's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithavardineedi-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF4ECD&text_color=FFFFFF"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
+
+
 
 ---
 
