@@ -173,7 +173,7 @@ Simple student information management project.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harshithavardineedi-lgtm&hide_border=true&background=00000000&ring=7C3AED&fire=FF4ECD&currStreakLabel=00BFFF&sideLabels=7C3AED&dates=777777" />
+<img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
 
