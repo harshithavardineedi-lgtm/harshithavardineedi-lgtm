@@ -1,0 +1,38 @@
+name: Update Contribution Streak
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate streak stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&background=transparent&hide_border=true&ring=7C3AED&fire=FF4ECD&currStreakLabel=00BFFF&sideLabels=7C3AED&dates=777777&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git add profile/streak.svg
+
+          if git diff --cached --quiet -- profile/streak.svg; then
+            echo "No streak SVG changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update contribution streak"
+          git push
